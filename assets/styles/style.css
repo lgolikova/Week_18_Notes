@@ -50,7 +50,6 @@ h1 {
     color:rgb(9, 40, 72)
 }
 
-/* 
-.notes {
-    width: 200px;
-} */
+#clear {
+    margin-bottom: 20px;
+}
